@@ -1,11 +1,10 @@
 #  Electronics-Store-Events-Funnel-Analysis
 
-![Dashboard](./dashboard.png)
-
 Аналитический проект по исследованию событий на сайте магазина электроники за 5 месяцев. В ноутбуке проводится первичный обзор данных, предобработка, EDA, построение воронки продаж, а также анализ категорий и брендов. В результате даются рекомендации по оптимизации ассортимента, маркетинговых стратегий и повышению конверсии.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kirillrub108/Electronics-Store-Analysis/blob/master/EventsAndFunnelAnalysis.ipynb)
 
+![Dashboard](./dashboard.png)
 
 ## Описание
 
